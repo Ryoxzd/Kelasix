@@ -1,0 +1,29 @@
+{
+  "name": "kelasix",
+  "private": true,
+  "workspace": [
+    "client",
+    "server"
+  ],
+  "version": "1.0.0",
+  "description": "**Kelasix** adalah platform forum sosial media mini yang dirancang khusus untuk komunitas sekolah dan kampus.   Kelasix membantu siswa, mahasiswa, guru, dan dosen untuk tetap terhubung dalam satu platform yang interaktif, aman, dan fokus pada lingkungan pendidikan.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryoxzd/Kelasix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ryoxzd/Kelasix/issues"
+  },
+  "homepage": "https://github.com/Ryoxzd/Kelasix#readme",
+  "dependencies": {
+    "firebase": "^11.7.3"
+  }
+}
