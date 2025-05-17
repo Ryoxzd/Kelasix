@@ -34,5 +34,5 @@ Kelasix membantu siswa, mahasiswa, guru, dan dosen untuk tetap terhubung dalam s
 
 ```bash
 # Clone repo
-git clone https://github.com/username/kelasix.git
+git clone https://github.com/Ryoxzd/kelasix.git
 cd kelasix
