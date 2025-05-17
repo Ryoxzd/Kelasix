@@ -30,9 +30,9 @@ Kelasix membantu siswa, mahasiswa, guru, dan dosen untuk tetap terhubung dalam s
 
 ---
 
-## Cara Menjalankan (Dev Mode)
+## Lisensi
 
-```bash
-# Clone repo
-git clone https://github.com/Ryoxzd/kelasix.git
-cd kelasix
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+
+Proyek ini menggunakan lisensi **GNU AGPLv3**.  
+Lihat file [LICENSE](./LICENSE) untuk detail lengkapnya.
